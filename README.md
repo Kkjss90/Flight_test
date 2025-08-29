@@ -22,7 +22,7 @@ Flight_test-1.0-SNAPSHOT.jar - основной JAR-файл c необходи�
 java -jar target/Flight_test-1.0-SNAPSHOT.jar <path-to-file>
 ```
 
-Также можно скачать файл Flight_test-1.0-SNAPSHOT.jar и запустить:
+Также можно скачать файл Flight_test-1.0-SNAPSHOT.jar из папки target и запустить:
 
 ```bash
 java -jar Flight_test-1.0-SNAPSHOT.jar <path-to-file>
